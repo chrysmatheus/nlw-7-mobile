@@ -3,13 +3,14 @@
     "name": "nlw-7-mobile",
     "slug": "nlw-7-mobile",
     "version": "1.0.0",
+    "schema": "nlw-7-mobile",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
